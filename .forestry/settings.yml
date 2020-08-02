@@ -23,6 +23,14 @@ sections:
   match: "**/[!index]*"
   templates:
   - journal
+- type: directory
+  path: photos
+  label: Photos
+  create: documents
+  match: "**/*"
+  new_doc_ext: ".jpg"
+  templates:
+  - works
 - type: heading
   label: Data
 - type: document
