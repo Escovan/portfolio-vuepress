@@ -1,7 +1,7 @@
 ---
 title: Curriculum Vitae
 date: 2018-08-01T00:00:00.000+00:00
-thumbnail: "/upload/img_20200606_123407.jpg"
+thumbnail: "/upload/cv-j-m-van-der-pal-2020-6.pdf"
 year: 2020
 categories:
 - print
