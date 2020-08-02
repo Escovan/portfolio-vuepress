@@ -28,7 +28,7 @@ sections:
   label: Photos
   create: documents
   match: "**/*"
-  new_doc_ext: ".jpg"
+  new_doc_ext: jpg
   templates:
   - works
 - type: heading
