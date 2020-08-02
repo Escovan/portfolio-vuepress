@@ -1,7 +1,7 @@
 ---
-title: Content management and auto deployment for VuePress
-date: 2018-08-09 17:49:28 +0000
-excerpt: This works like expected, this text is only visible on the front page where all the journal posts are listed
+title: Escovan.net
+date: 2018-08-09T17:49:28.000+00:00
+excerpt: Kort verhaaltje
 
 ---
 # Content management and auto deployment for VuePress
