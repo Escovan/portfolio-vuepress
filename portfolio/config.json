@@ -3,7 +3,7 @@
   "description": "Margin Disruption",
   "logo": "/upload/es-1.svg",
   "footer": "Ⓒ Escovan.net 2008 - 2020",
-  "favicon": "favicon-32x32.png",
+  "favicon": "/upload/es-1.svg",
   "navigation": [
     {
       "text": "Works",
